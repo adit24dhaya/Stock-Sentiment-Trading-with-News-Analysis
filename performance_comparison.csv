@@ -1,0 +1,5 @@
+Metric,TF-IDF,Word2Vec
+Precision,1.0,1.0
+Recall,1.0,1.0
+F1-Score,1.0,1.0
+Accuracy,1.0,1.0

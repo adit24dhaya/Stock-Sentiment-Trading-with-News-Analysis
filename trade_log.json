@@ -1,0 +1,234 @@
+[
+    {
+        "date": "2024-12-09 21:11:42",
+        "transaction_type": "Buy",
+        "shares": 10,
+        "amount": 3500.0,
+        "sentiment_score": 3.22617339409574,
+        "remaining_balance": 96500.0
+    },
+    {
+        "date": "2024-12-09 21:11:43",
+        "transaction_type": "Buy",
+        "shares": 10,
+        "amount": 3500.0,
+        "sentiment_score": 4.088672798798516,
+        "remaining_balance": 93000.0
+    },
+    {
+        "date": "2024-12-09 21:11:44",
+        "transaction_type": "Buy",
+        "shares": 10,
+        "amount": 3500.0,
+        "sentiment_score": 3.760441898083413,
+        "remaining_balance": 89500.0
+    },
+    {
+        "date": "2024-12-09 21:11:45",
+        "transaction_type": "Buy",
+        "shares": 10,
+        "amount": 3500.0,
+        "sentiment_score": 3.6462127675959506,
+        "remaining_balance": 86000.0
+    },
+    {
+        "date": "2024-12-09 21:11:46",
+        "transaction_type": "Buy",
+        "shares": 10,
+        "amount": 3500.0,
+        "sentiment_score": 3.279178787488841,
+        "remaining_balance": 82500.0
+    },
+    {
+        "date": "2024-12-09 21:11:47",
+        "transaction_type": "Buy",
+        "shares": 10,
+        "amount": 3500.0,
+        "sentiment_score": 4.096050770384673,
+        "remaining_balance": 79000.0
+    },
+    {
+        "date": "2024-12-09 21:11:48",
+        "transaction_type": "Buy",
+        "shares": 10,
+        "amount": 3500.0,
+        "sentiment_score": 3.4395966184373314,
+        "remaining_balance": 75500.0
+    },
+    {
+        "date": "2024-12-09 21:11:49",
+        "transaction_type": "Buy",
+        "shares": 10,
+        "amount": 3500.0,
+        "sentiment_score": 3.5860528613805123,
+        "remaining_balance": 72000.0
+    },
+    {
+        "date": "2024-12-09 21:11:50",
+        "transaction_type": "Buy",
+        "shares": 10,
+        "amount": 3500.0,
+        "sentiment_score": 2.9495361389782886,
+        "remaining_balance": 68500.0
+    },
+    {
+        "date": "2024-12-09 21:11:51",
+        "transaction_type": "Buy",
+        "shares": 10,
+        "amount": 3500.0,
+        "sentiment_score": 3.5137790059848037,
+        "remaining_balance": 65000.0
+    },
+    {
+        "date": "2024-12-09 21:11:52",
+        "transaction_type": "Buy",
+        "shares": 10,
+        "amount": 3500.0,
+        "sentiment_score": 3.4187373343439407,
+        "remaining_balance": 61500.0
+    },
+    {
+        "date": "2024-12-09 21:11:53",
+        "transaction_type": "Buy",
+        "shares": 10,
+        "amount": 3500.0,
+        "sentiment_score": 2.3755609711888503,
+        "remaining_balance": 58000.0
+    },
+    {
+        "date": "2024-12-09 21:11:54",
+        "transaction_type": "Buy",
+        "shares": 10,
+        "amount": 3500.0,
+        "sentiment_score": 4.036881012786525,
+        "remaining_balance": 54500.0
+    },
+    {
+        "date": "2024-12-09 21:11:55",
+        "transaction_type": "Buy",
+        "shares": 10,
+        "amount": 3500.0,
+        "sentiment_score": 3.553199198772793,
+        "remaining_balance": 51000.0
+    },
+    {
+        "date": "2024-12-09 21:11:56",
+        "transaction_type": "Buy",
+        "shares": 10,
+        "amount": 3500.0,
+        "sentiment_score": 4.044686531844109,
+        "remaining_balance": 47500.0
+    },
+    {
+        "date": "2024-12-09 21:11:57",
+        "transaction_type": "Buy",
+        "shares": 10,
+        "amount": 3500.0,
+        "sentiment_score": 2.8901194562052783,
+        "remaining_balance": 44000.0
+    },
+    {
+        "date": "2024-12-09 21:11:58",
+        "transaction_type": "Buy",
+        "shares": 10,
+        "amount": 3500.0,
+        "sentiment_score": 3.013148791151514,
+        "remaining_balance": 40500.0
+    },
+    {
+        "date": "2024-12-09 21:11:59",
+        "transaction_type": "Buy",
+        "shares": 10,
+        "amount": 3500.0,
+        "sentiment_score": 3.616495173429547,
+        "remaining_balance": 37000.0
+    },
+    {
+        "date": "2024-12-09 21:12:00",
+        "transaction_type": "Buy",
+        "shares": 10,
+        "amount": 3284.89990234375,
+        "sentiment_score": 4.093480347004396,
+        "remaining_balance": 33715.10009765625
+    },
+    {
+        "date": "2024-12-09 21:12:01",
+        "transaction_type": "Buy",
+        "shares": 10,
+        "amount": 3284.89990234375,
+        "sentiment_score": 2.8254600176013627,
+        "remaining_balance": 30430.2001953125
+    },
+    {
+        "date": "2024-12-09 21:12:02",
+        "transaction_type": "Buy",
+        "shares": 10,
+        "amount": 3284.89990234375,
+        "sentiment_score": 2.496880233155721,
+        "remaining_balance": 27145.30029296875
+    },
+    {
+        "date": "2024-12-09 21:12:03",
+        "transaction_type": "Buy",
+        "shares": 10,
+        "amount": 3284.89990234375,
+        "sentiment_score": 2.620700060560325,
+        "remaining_balance": 23860.400390625
+    },
+    {
+        "date": "2024-12-09 21:12:04",
+        "transaction_type": "Buy",
+        "shares": 10,
+        "amount": 3284.89990234375,
+        "sentiment_score": 3.1149760370314343,
+        "remaining_balance": 20575.50048828125
+    },
+    {
+        "date": "2024-12-09 21:12:05",
+        "transaction_type": "Buy",
+        "shares": 10,
+        "amount": 3284.89990234375,
+        "sentiment_score": 3.5744616892709944,
+        "remaining_balance": 17290.6005859375
+    },
+    {
+        "date": "2024-12-09 21:12:06",
+        "transaction_type": "Buy",
+        "shares": 10,
+        "amount": 3284.89990234375,
+        "sentiment_score": 3.6890279420621264,
+        "remaining_balance": 14005.70068359375
+    },
+    {
+        "date": "2024-12-09 21:12:07",
+        "transaction_type": "Buy",
+        "shares": 10,
+        "amount": 3284.89990234375,
+        "sentiment_score": 2.6029943621914997,
+        "remaining_balance": 10720.80078125
+    },
+    {
+        "date": "2024-12-09 21:12:08",
+        "transaction_type": "Buy",
+        "shares": 10,
+        "amount": 3284.89990234375,
+        "sentiment_score": 3.24568946194875,
+        "remaining_balance": 7435.90087890625
+    },
+    {
+        "date": "2024-12-09 21:12:09",
+        "transaction_type": "Buy",
+        "shares": 10,
+        "amount": 3284.89990234375,
+        "sentiment_score": 3.310438110542967,
+        "remaining_balance": 4151.0009765625
+    },
+    {
+        "date": "2024-12-09 21:12:10",
+        "transaction_type": "Buy",
+        "shares": 10,
+        "amount": 3284.89990234375,
+        "sentiment_score": 2.688026950108953,
+        "remaining_balance": 866.10107421875
+    }
+]
