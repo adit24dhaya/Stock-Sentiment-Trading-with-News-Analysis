@@ -81,7 +81,7 @@ Run the main script:
 ```bash
 python your_script_name.py # Replace your_script_name.py with the actual name of your script.
 ```
-The script will:
+## The script will:
 
 * Fetch stock and news data.
 * Preprocess the text data and perform sentiment analysis.
@@ -89,10 +89,10 @@ The script will:
 * Simulate the trading strategy.
 * Print performance metrics and generate a balance plot.
 
-##Example Output
+##    Example Output
 The script will output performance metrics like total gain/loss, percentage return, and a plot of the account balance over time. It will also generate classification reports for the sentiment analysis models.
 
-##Disclaimer
+##    Disclaimer
 This project is for educational purposes only. Trading stocks based on sentiment analysis is highly risky, and past performance is not indicative of future results. Do not use this project for actual financial trading without consulting a qualified financial advisor.
 
 ##Future Improvements
